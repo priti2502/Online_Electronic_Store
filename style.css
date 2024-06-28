@@ -1,0 +1,45 @@
+.image{
+    width:960px;
+     height:275px;
+     border:1px solid black;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+
+}
+.nav{
+    
+    text-align: center;
+   
+}
+.nav li{
+    display: inline;
+    
+  
+}
+li a{
+    text-decoration: none;
+}
+.card{
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 200px;
+    width: 100%;
+}
+.card-body{
+    width: 180px;
+    margin: 5px;
+    border: 1px solid black;
+}
+.card-body img{
+    height: 100%;
+    width: 100%;
+    
+}
+.para{
+    
+    margin-left: 10px ;
+    margin-right: 10px;
+}
